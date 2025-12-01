@@ -1,0 +1,41 @@
+# User Needs — Creative spike
+
+## Creative Coding Spike Check-in
+
+Afgelopen maandag heb je de opdracht gekregen om deze week een **creative coding spike** te maken. Vandaag is het moment om je ideeën te toetsen, aanscherpen en verder te brengen.  
+
+### Doel van de sessie
+
+- Je kunt je concept en spike-inzet helder presenteren
+- Je weet wat je vervolgstappen zijn om het haalbaar te maken
+- Je ontvangt feedback én inspiratie van docenten & peers
+- Je bent na vandaag concreet een stap verder in je experiment
+
+### Aanpak
+
+We werken in kleine groepen 3-4 personen en **twee docenten**, de groepen staan op een whiteboard.
+Je presenteert kort je voortgang en krijgt gerichte feedback op **concept, haalbaarheid en vervolgstappen**. Ben je als groep niet aan de beurt werk dan door aan je creative spike.
+
+### 1. Concept, plan & uitvoering
+
+Elke persoon in de groep presenteert in **max. 5–7 minuten**:
+
+1. **Concept**  
+   - Wat wil je maken? Voor wie? Waarom interessant? Laat je moodboard/pinterest/figma/inspiratie zien
+2. **Plan**  
+   - Wat is je aanpak?
+   - Zie je al struggles? Heb je daar een plan voor?
+3. **Uitvoering / voortgang**  
+   - Code, schetsen, interactieproeven, UI states, micro-prototypes
+   - Waar zit je vast? Waar kan feedback mee helpen?
+
+Docenten stellen vragen, geven richting, maar **programmeren niet**.
+
+🎯 Doel van het gesprek:  
+> "Kun je dit binnen een week waarmaken — en wat is je eerstvolgende concrete stap?"
+
+### ✒️ Leervragen
+
+1. Wat was voor jou het meest waardevolle inzicht van vandaag?  
+2. Wat ga je *vanaf nu anders* doen in je spike?  
+3. Wat heb je geleerd van andere studenten tijdens het groepsgesprek?  
