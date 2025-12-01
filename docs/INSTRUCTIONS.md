@@ -18,14 +18,13 @@ Vorig jaar heb je gezien dat gebruikers behoefte hebben aan 'delighters', kleine
 
 Tijdens deze opdracht doorloop je drie keer alle fases van de DLC: **Analyseren**, **Ontwerpen**, **Bouwen**, **Integreren** en **Testen**.
 
-
-
 ## Criteria
 
-Focus sprint # - De focus van deze sprint ligt op creative coding, het verkennen van ideeen voor interactie en samenwerken.
+De focus van deze sprint ligt op creative coding, het verkennen van ideeen voor interactie en samenwerken.
 
 Deze opdracht is done als:
-- [ ] je met jouw team per teamlid drie creative coding spikes in branches hebt gerealiseerd.
+- [ ] je persoonlijk drie creative coding spikes in branches hebt gerealiseerd.
+- [ ] je creative coding spikes zijn getest op RAP/PE principes.
 - [ ] de verschillende creative coding spikes op het web te bekijken zijn.
 - [ ] je het verschil in performance per spike hebt gedocumenteerd in de pull-requests.
 - [ ] je een keuze hebt gemaakt welke creative coding spikes bijdragen aan de gebruikservaring.
