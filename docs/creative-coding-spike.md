@@ -31,12 +31,13 @@ Elke week ontwerp en maak je een creatieve oplossing, welke je op vrijdag gaat t
 3. Maak een tijdsinschatting en schiet issues in voor je taken (lees even verder)
 4. Doe vooronderzoek en bepaal de elementen van jouw stijl. Gebruik screenshots of Pinterest om een verzameling te maken. Neem een collage op in de betreffende issue.
 5. Schets een wireflow voor jouw concept, gebruik eventueel de morphologische kaart. Bedenk welke interacties, animaties en geluidsondersteuning je nodig hebt. Neem jouw schetsen op in de betreffende issue.
-6. Maak een breakdown schets waarin je onderzoekt hoe je jouw concept met HTML, CSS en Javascript kunt implementeren. Bespreek jouw schets met teamgenoten of docenten. Neem ook jouw breakdown schets op in de betreffende issue.
-7. Implementeer jouw concept in HTML/CSS/JS en Sveltekit. Beschrijf in de betreffende issue hoe je de belangrijkste dingen voor elkaar krijgt.
-8. Test uitvoerig en beschrijf verschillen in performance in de betreffende issue
-9. Voer een pull-request uit waarin je de belangrijkste zaken uit bovenstaande issues opneemt. (nb. voer het PR nog niet door!)
-10. Publiceer jouw project via Vercel of Netlify naast de bestaande site (je selecteert dan jouw aparte branch).
-11. Laat je concept testen door de tribe bij een user-test tijdens de Design & Code review! Neem opmerkingen op in het pull-request. Voer opgedane inzichten door en voeg die als commits toe aan het pull-request.
+6. Maak een breakdown schets waarin je onderzoekt hoe je jouw concept met HTML, CSS en Javascript kunt implementeren.
+7. Bespreek jouw schets met teamgenoten of docenten. Neem ook jouw breakdown schets op in de betreffende issue.
+8. Implementeer jouw concept in HTML/CSS/JS en Sveltekit. Beschrijf in de betreffende issue hoe je de belangrijkste dingen voor elkaar krijgt.
+9. Test uitvoerig en beschrijf verschillen in performance in de betreffende issue
+10. Voer een pull-request uit waarin je de belangrijkste zaken uit bovenstaande issues opneemt. (nb. voer het PR nog niet door!)
+11. Publiceer jouw project via Vercel of Netlify naast de bestaande site (je selecteert dan jouw aparte branch).
+12. Laat je concept testen door de tribe bij een user-test tijdens de Design & Code review! Neem opmerkingen op in het pull-request. Voer opgedane inzichten door en voeg die als commits toe aan het pull-request.
 13. Bespreek tenslotte met je team welke functionaliteit overgenomen wordt in de code-base. Sluit de andere pull-requests maar verwijder niet de branches!
 
 ### Materiaal
