@@ -9,6 +9,8 @@ Deze leertaak hoort bij sprint 17 User Needs. Dit is een leertaak die je in een 
 
 Bij deze leertaak hoort voor elk teamlid 3x individueel de deeltaak:
 - [Creative Coding Spike](./creative-coding-spike.md)
+- [Woensdag workshops](./woensdag-workshops.md)
+- [Wrap-up](./wrap-up.md)
 
 ## Doel van deze opdracht
 
