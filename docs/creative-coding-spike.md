@@ -44,15 +44,17 @@ Elke week ontwerp en maak je een creatieve oplossing, welke je op vrijdag gaat t
 
 #### Spike 1: Javascript libraries
 
-- 
+- GSAP en Threlte.xyz
+- Aan de hand van [conceptroulette.fdnd.nl](https://conceptroulette.fdnd.nl)
 
 #### Spike 2: New CSS Features
 
-- 
+- CSS features die maximaal 1/2 jaar oud zijn
+- Aan de hand van [conceptroulette.fdnd.nl](https://conceptroulette.fdnd.nl)
 
 #### Spike 3: Functional user delight
 
--
+- In lijn met de huisstijl van de opdrachtgever
 
 #### Creative coding Inspiratie:
 
