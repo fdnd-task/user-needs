@@ -11,6 +11,8 @@ Afgelopen maandag heb je de opdracht gekregen om deze week een **creative coding
 - Je ontvangt feedback én inspiratie van docenten & peers
 - Je bent na vandaag concreet een stap verder in je experiment
 
+>Om mee te kunnen doen moet je minimaal stap 1 t/m 5 hebben gedaan van de "Concept Roulette".
+
 ### Aanpak
 
 We werken in kleine groepen 3-4 personen en **twee docenten**, de groepen staan op een whiteboard.
