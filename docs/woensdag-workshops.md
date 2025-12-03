@@ -2,7 +2,7 @@
 
 ## Creative Coding Spike Check-in
 
-Afgelopen maandag heb je de opdracht gekregen om deze week een **creative coding spike** te maken. Vandaag is het moment om je ideeën te toetsen, aanscherpen en verder te brengen.  
+Afgelopen maandag heb je de opdracht gekregen om deze week een **creative coding spike** te maken. Vandaag is het moment om je ideeën te toetsen, aanscherpen en verder te brengen. 
 
 ### Doel van de sessie
 
@@ -15,8 +15,10 @@ Afgelopen maandag heb je de opdracht gekregen om deze week een **creative coding
 
 ### Aanpak
 
-We werken in kleine groepen 3-4 personen en **twee docenten**, de groepen staan op een whiteboard.
+We werken in kleine groepen 3-4 personen, groepjes staan op het whiteboard. 
 Je presenteert kort je voortgang en krijgt gerichte feedback op **concept, haalbaarheid en vervolgstappen**. Ben je als groep niet aan de beurt werk dan door aan je creative spike.
+
+1) wat ga je maken, 2) wat waren andere ideeen en 3) waarom heb je voor deze gekozen?
 
 ### 1. Concept & uitvoering
 
@@ -24,14 +26,20 @@ Elke persoon in de groep presenteert in **max. 5–7 minuten**:
 
 1. **Concept**  
    - Wat wil je maken? Voor wie? Waarom interessant? Laat je moodboard/pinterest/figma/inspiratie zien
+   - Wat waren je andere ideeen?
+   - Waarom heb je voor deze gekozen?
 2. **Plan**  
    - Wat is je aanpak?
+   - Welke library ga je gebruiken?
    - Zie je al struggles? Heb je daar een plan voor?
 3. **Uitvoering**  
-   - schetsen, UI states, micro-prototypes, code
+   - Schetsen, UI states, micro-prototypes, code
    - Waar zit je vast? Waar kan feedback mee helpen?
 
-Docenten stellen vragen, geven richting, maar **programmeren niet**.
+Schrijf per persoon op het bord:
+- Naam
+- Library
+- Concept in 1 zin
 
 🎯 Doel van het gesprek:  
 > "Kun je dit binnen een week waarmaken — en wat is je eerstvolgende concrete stap?"
@@ -40,4 +48,4 @@ Docenten stellen vragen, geven richting, maar **programmeren niet**.
 
 1. Wat was voor jou het meest waardevolle inzicht van vandaag?  
 2. Wat ga je *vanaf nu anders* doen in je spike?  
-3. Wat heb je geleerd van andere studenten tijdens het groepsgesprek?  
+3. Wat heb je geleerd van andere studenten tijdens het groepsgesprek?   -->
