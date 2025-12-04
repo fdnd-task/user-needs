@@ -29,7 +29,7 @@ Na het tellen van de stemmen worden de repo's met de meeste stemmen in Teams ged
 
 Vorm een duo en kies samen twee repo's uit die jullie gaan reviewen. Pak de code erbij. Hoe is deze creative coding spike gemaakt? Wat valt jullie op? Schrijf in het random kanaal samen één bericht over wat jullie is opgevallen. Schrijf een mini tutorial hoe iemand anders ook met deze techniek kan werken en voeg eventueel een codepen toe ter verduidelijking. Let ook op hoe het component RAP/PE is gemaakt. Dit kan een onderwerp zijn om op in te zoomen. 
 
-### Volgende week
+### Wat neem ik mee naar volgende week?
 Elke week maken jullie een nieuwe creative spike. Je begint elke week met een leeg canvas. Gebruik de vrijdagen om inspiratie op te doen bij peers. Dit kun je meenemen in het ontwerpen van een nieuwe creative spike volgende week. 
 
 Ook kun je de vrijdagen gebruiken om een user test uit te voeren met een peer. Neem opmerkingen op in het pull-request. Voer opgedane inzichten door en voeg die als commits toe aan het pull-request.
