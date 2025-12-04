@@ -17,7 +17,7 @@ Zet jouw werk klaar voor de creative coding spike markt! Open een browser en maa
 - Een andere voor jouw inspiratie (moodboard, figma, schets..)
 - En tenslotte open je je code in GitHub van de creative coding spike
 
-Voor jouw laptop leg je een A4 papiertje neer en schrijf bovenaan het blad je naam en welke woorden combinatie jij hebt gebruikt om tot deze coding spike te komen. 
+Voor jouw laptop leg je een A4 papiertje neer en schrijf je bovenaan het blad je naam en welke woorden combinatie jij hebt gebruikt om tot deze coding spike te komen. 
 
 #### Stemmen
 
