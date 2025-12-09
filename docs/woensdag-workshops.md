@@ -16,9 +16,7 @@ Afgelopen maandag heb je de opdracht gekregen om deze week een **creative coding
 ### Aanpak
 
 We werken in kleine groepen 3-4 personen, groepjes staan op het whiteboard. 
-Je presenteert kort je voortgang en krijgt gerichte feedback op **concept, haalbaarheid en vervolgstappen**. Ben je als groep niet aan de beurt werk dan door aan je creative spike.
-
-1) wat ga je maken, 2) wat waren andere ideeen en 3) waarom heb je voor deze gekozen?
+Je presenteert kort je voortgang en krijgt feedback op **concept, haalbaarheid en vervolgstappen**. 
 
 ### 1. Concept & uitvoering
 
