@@ -50,5 +50,5 @@ Jullie kennen de retrospecitve, deze wordt uitgevoerd aan het einde van de sprin
 ### ✒️ Leervragen
 
 Zet de antwoorden in je learning journal:
-1. Hoe ging de refinement op de backlog?
-2. Hoe helpt een refinement jouw project?
+1. Wat viel je op tijdens het bespreken van de velocity?
+2. Hoe gaat de burnup/down chart je helpen in de sprint?
