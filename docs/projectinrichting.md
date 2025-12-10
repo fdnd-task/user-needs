@@ -1,6 +1,6 @@
 # User needs
 
-## Projecinrichting
+## Projectinrichting
 
 Over velocity, burnup chart, burndown chart en een post mortem.
 
