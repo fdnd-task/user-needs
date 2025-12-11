@@ -10,8 +10,9 @@ Deze leertaak hoort bij sprint 17 User Needs. Dit is een leertaak die je in een 
 Bij deze leertaak hoort voor elk teamlid 3x individueel de deeltaak:
 - [Creative Coding Spike](./creative-coding-spike.md)
 - [Woensdag workshops](./woensdag-workshops.md)
-- [Creative spike 1 review](https://github.com/fdnd-task/user-needs/blob/main/docs/creative-spike1-review.md)
+- [Code/Design review spike één](https://github.com/fdnd-task/user-needs/blob/main/docs/creative-spike1-review.md)
 - [Projectinrichting](https://github.com/fdnd-task/user-needs/blob/main/docs/projectinrichting.md)
+- [Code/Design review spike twee](https://github.com/fdnd-task/user-needs/blob/main/docs/creative-spike2-review.md)
 - [Wrap-up](./wrap-up.md)
 
 ## Doel van deze opdracht
