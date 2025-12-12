@@ -27,6 +27,10 @@ Laat tijdens je presentatie het volgende zien aan de groep:
 
 ### Reviewen
 
-Post in het draadje 'Repo's creative coding spike week 2' de link naar jouw repo. Kies uit deze lijst twee repo's van andere studenten die je gaat reviewen. Geef met een emoji aan welke repo jij gaat reviewen. Zorg dat iemand niet meer dan twee reviews ontvangt om zo iedereen een review te kunnen geven. 
+De docenten maken een lijst met wie wie gaat reviewen, deze kun je zometeen in het teams kanaal "User needs" vinden.
 
-Pak vervolgens de code erbij. Hoe is deze creative coding spike gemaakt? Wat valt je op? Test uitvoerig op RAP/PE principes en beschrijf opvallendheden in een issue. 
+1. Clone de repo
+2. Krijg het werkend op jouw computer
+3. Pak vervolgens de code erbij.
+4. Hoe is deze creative coding spike gemaakt? Wat valt je op? Test uitvoerig op RAP/PE principes en beschrijf opvallendheden in een issue. 
+
