@@ -32,9 +32,12 @@ De docenten maken een lijst met wie wie gaat reviewen, deze kun je zometeen in h
 1. Clone de repo
 2. Krijg het werkend op jouw computer
 3. Pak vervolgens de code erbij.
-4. Hoe is deze creative coding spike gemaakt? Wat valt je op? Test uitvoerig op RAP/PE principes en beschrijf opvallendheden in een issue. 
+4. Hoe is deze creative coding spike gemaakt? Wat valt je op? Test uitvoerig op RAP/PE principes en beschrijf opvallendheden in een issue.
 
-| Student      | Review 1 | Review 2 |
+
+Dus je zoekt je eigen naam op bij student en je doet twee reviews in de kolommen ernaast.
+
+| Student      | Jij Reviewt 1 | Jij Reviewt 2 |
 |--------------|-------------------|-------------------|
 | Abeer        | Anouk             | Miel              |
 | Anouk        | Miel              | Renzo             |
