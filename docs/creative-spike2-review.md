@@ -59,3 +59,21 @@ Dus je zoekt je eigen naam op bij student en je doet twee reviews in de kolommen
 | Suleyman     | Recep             | Kerem             |
 | Recep        | Kerem             | Abeer             |
 | Kerem        | Abeer             | Anouk             |
+
+
+### Maandag  presentaties
+
+| Student  | Reviewt student 1 | Reviewt student 2 |
+|----------|-------------------|-------------------|
+| Jules    | Halima            | Amber             |
+| Halima   | Amber             | Alisa             |
+| Amber    | Alisa             | Inez              |
+| Alisa    | Inez              | Kyan              |
+| Inez     | Kyan              | Luuk              |
+| Kyan     | Luuk              | Stella            |
+| Luuk     | Stella            | Clarice           |
+| Stella   | Clarice           | Fatima            |
+| Clarice  | Fatima            | Saif              |
+| Fatima   | Saif              | Yamen             |
+| Saif     | Yamen             | Jules             |
+| Yamen    | Jules             | Halima            |
