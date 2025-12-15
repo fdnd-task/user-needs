@@ -35,45 +35,43 @@ De docenten maken een lijst met wie wie gaat reviewen, deze kun je zometeen in h
 4. Hoe is deze creative coding spike gemaakt? Wat valt je op? Test uitvoerig op RAP/PE principes en beschrijf opvallendheden in een issue.
 
 
-Dus je zoekt je eigen naam op bij student en je doet twee reviews in de kolommen ernaast.
-
-| Student      | Jij Reviewt 1 | Jij Reviewt 2 |
-|--------------|-------------------|-------------------|
-| Abeer        | Anouk             | Miel              |
-| Anouk        | Miel              | Renzo             |
-| Miel         | Renzo             | Rick              |
-| Renzo        | Rick              | Sebastiaan        |
-| Rick         | Sebastiaan        | Sidney            |
-| Sebastiaan   | Sidney            | Branco            |
-| Sidney       | Branco            | Colin             |
-| Branco       | Colin             | Dylan             |
-| Colin        | Dylan             | Karima            |
-| Dylan        | Karima            | Kim               |
-| Karima       | Kim               | Matthijs          |
-| Kim          | Matthijs          | Nadia             |
-| Matthijs     | Nadia             | Ravi              |
-| Nadia        | Ravi              | Ties              |
-| Ravi         | Ties              | Viresh            |
-| Ties         | Viresh            | Suleyman          |
-| Viresh       | Suleyman          | Recep             |
-| Suleyman     | Recep             | Kerem             |
-| Recep        | Kerem             | Abeer             |
-| Kerem        | Abeer             | Anouk             |
+| Student      | Reviewt | 
+|--------------|-------------------|
+| Abeer        | Anouk en Miel              |
+| Anouk        | Miel  en Renzo             |
+| Miel         | Renzo en Rick              |
+| Renzo        | Rick  en Sebastiaan        |
+| Rick         | Sebastiaan en Sidney            |
+| Sebastiaan   | Sidneyen Branco            |
+| Sidney       | Brancoen Colin             |
+| Branco       | Colin en Dylan             |
+| Colin        | Dylan en Karima            |
+| Dylan        | Karimaen Kim               |
+| Karima       | Kim en Matthijs          |
+| Kim          | Matthijs en Nadia             |
+| Matthijs     | Nadia en Ravi              |
+| Nadia        | Ravi  en Ties              |
+| Ravi         | Ties  en Viresh            |
+| Ties         | Vireshen Suleyman          |
+| Viresh       | Suleyman en Recep             |
+| Suleyman     | Recep en Kerem             |
+| Recep        | Kerem en Abeer             |
+| Kerem        | Abeer en Anouk             |
 
 
 ### Maandag  presentaties
 
-| Student  | Reviewt student 1 | Reviewt student 2 |
-|----------|-------------------|-------------------|
-| Jules    | Halima            | Amber             |
-| Halima   | Amber             | Alisa             |
-| Amber    | Alisa             | Inez              |
-| Alisa    | Inez              | Kyan              |
-| Inez     | Kyan              | Luuk              |
-| Kyan     | Luuk              | Stella            |
-| Luuk     | Stella            | Clarice           |
-| Stella   | Clarice           | Fatima            |
-| Clarice  | Fatima            | Saif              |
-| Fatima   | Saif              | Yamen             |
-| Saif     | Yamen             | Jules             |
-| Yamen    | Jules             | Halima            |
+| Student  |  Reviewt: |
+|----------|----------------------|
+| Jules    | Saif en Yamen          |
+| Halima   | Jules en Yamen         |
+| Amber    | Jules en Halima        |
+| Alisa    | Halima en Amber        |
+| Inez     | Amber en Alisa         |
+| Kyan     | Alisa en Inez          |
+| Luuk     | Inez en Kyan           |
+| Stella   | Kyan en Luuk           |
+| Clarice  | Luuk en Stella         |
+| Fatima   | Stella en Clarice      |
+| Saif     | Clarice en Fatima      |
+| Yamen    | Fatima en Saif         |
