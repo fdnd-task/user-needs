@@ -42,17 +42,17 @@ De docenten maken een lijst met wie wie gaat reviewen, deze kun je zometeen in h
 | Miel         | Renzo en Rick              |
 | Renzo        | Rick  en Sebastiaan        |
 | Rick         | Sebastiaan en Sidney            |
-| Sebastiaan   | Sidneyen Branco            |
-| Sidney       | Brancoen Colin             |
+| Sebastiaan   | Sidney en Branco            |
+| Sidney       | Branco en Colin             |
 | Branco       | Colin en Dylan             |
 | Colin        | Dylan en Karima            |
-| Dylan        | Karimaen Kim               |
+| Dylan        | Karima en Kim               |
 | Karima       | Kim en Matthijs          |
 | Kim          | Matthijs en Nadia             |
 | Matthijs     | Nadia en Ravi              |
 | Nadia        | Ravi  en Ties              |
 | Ravi         | Ties  en Viresh            |
-| Ties         | Vireshen Suleyman          |
+| Ties         | Viresh en Suleyman          |
 | Viresh       | Suleyman en Recep             |
 | Suleyman     | Recep en Kerem             |
 | Recep        | Kerem en Abeer             |
