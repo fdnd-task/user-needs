@@ -61,17 +61,18 @@ De docenten maken een lijst met wie wie gaat reviewen, deze kun je zometeen in h
 
 ### Maandag  presentaties
 
-| Student  |  Reviewt: |
+| Student  | Wordt gereviewd door |
 |----------|----------------------|
-| Jules    | Saif en Yamen          |
-| Halima   | Jules en Yamen         |
-| Amber    | Jules en Halima        |
-| Alisa    | Halima en Amber        |
-| Inez     | Amber en Alisa         |
-| Kyan     | Alisa en Inez          |
-| Luuk     | Inez en Kyan           |
-| Stella   | Kyan en Luuk           |
-| Clarice  | Luuk en Stella         |
-| Fatima   | Stella en Clarice      |
-| Saif     | Clarice en Fatima      |
-| Yamen    | Fatima en Saif         |
+| Jules    | Yamen en Matthijs    |
+| Halima   | Jules en Matthijs    |
+| Amber    | Jules en Halima      |
+| Alisa    | Halima en Amber      |
+| Inez     | Amber en Alisa       |
+| Kyan     | Alisa en Inez        |
+| Luuk     | Inez en Kyan         |
+| Stella   | Kyan en Luuk         |
+| Clarice  | Luuk en Stella       |
+| Fatima   | Stella en Clarice    |
+| Saif     | Clarice en Fatima    |
+| Yamen    | Fatima en Saif       |
+| Matthijs | Saif en Yamen        |
