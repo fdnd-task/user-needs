@@ -11,7 +11,7 @@ Afgelopen maandag heb je de opdracht gekregen om deze week een **creative coding
 - Je ontvangt feedback én inspiratie van docenten & medestudenten
 - Je bent na vandaag concreet een stap verder in je experiment
 
->Om mee te kunnen doen moet je minimaal stap 1 t/m 5 hebben gedaan van de "Concept Roulette".
+<!-- >Om mee te kunnen doen moet je minimaal stap 1 t/m 5 hebben gedaan van de "Concept Roulette". -->
 
 ### Aanpak
 
@@ -28,7 +28,7 @@ Elke persoon in de groep presenteert in **max. 5–7 minuten**:
    - Waarom heb je voor deze gekozen?
 2. **Plan**  
    - Wat is je aanpak?
-   - Welke CSS functionaliteit ga je gebruiken?
+   - Welke functionaliteit ga je gebruiken?
    - Zie je al struggles? Heb je daar een plan voor?
 3. **Uitvoering**  
    - Schetsen, UI states, micro-prototypes, code
@@ -36,7 +36,6 @@ Elke persoon in de groep presenteert in **max. 5–7 minuten**:
 
 Schrijf per persoon op het bord:
 - Naam
-- CSS functionaliteit
 - Concept in 1 zin
 
 🎯 Doel van het gesprek:  
