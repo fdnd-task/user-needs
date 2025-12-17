@@ -6,9 +6,9 @@ Hoe ver ben je gekomen? Laatste dingen afmaken, elkaar helpen, documentatie op o
 
 ### Aanpak
 
-Lees de [ToDo lijst]([todo lijst](https://github.com/fdnd-task/lose-your-head-the-client-case/blob/main/docs/wrapup.md#oplever-todos) nog eens door die in sprint 15 met elkaar geupdate hebben. Vandaag gaan we aan de slag met het voorbereiden op de laatste sprint. 
+Lees de oplevering [ToDo lijst]([todo lijst](https://github.com/fdnd-task/lose-your-head-the-client-case/blob/main/docs/wrapup.md#oplever-todos) nog eens door die in sprint 15 met elkaar geupdate hebben. Vandaag gaan we aan de slag met het voorbereiden op de laatste sprint. 
 
-👉 Let op, het is zaak dat je zelf bewijslast in portflow zet en koppelt aan de juiste indicatoren. 
+👉 Let op, je bent zelf verantwoordelijk dat je bewijslast in portflow zet en koppelt aan de juiste indicatoren.
 
 1. Retrospective
 2. Refinement
@@ -21,7 +21,7 @@ Doe een retrospective met een format van retromat.
 
 ### Refinement
 
-Doe met je team een refinement op de gehele backlog.
+Doe met je team een refinement op de gehele backlog. Lees voordat je dit doet de lijst van [quality assurance](https://github.com/fdnd-task/release-candidate/blob/main/docs/quality-assurance.md) van Sprint 18 door, en maak stories waar nodig. 
 
 **🛠️ Opdracht 2**  
 
