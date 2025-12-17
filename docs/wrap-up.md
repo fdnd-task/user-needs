@@ -25,10 +25,9 @@ Doe met je team een refinement op de gehele backlog. Lees voordat je dit doet de
 
 **🛠️ Opdracht 2** 
 
-
-- Ruim de backlog op (neem hierin ook het relevante werk van eerstejaarsstudenten mee)
+- Ruim de backlog op
 - Zet het op prioriteit
-- Maak user stories die nog missen
+- Maak user stories die nog missen (ook bijvoorbeeld aan de hand van het werk van eerstejaarsstudenten. Wat moet mee naar de release candidate?)
 - Poker plan de stories bovenin de backlog
 
 Kortom zet de backlog zo ver mogelijk klaar voor de sprintplanning van S18.
