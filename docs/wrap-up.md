@@ -23,9 +23,10 @@ Doe een retrospective met een format van retromat.
 
 Doe met je team een refinement op de gehele backlog. Lees voordat je dit doet de lijst van [quality assurance](https://github.com/fdnd-task/release-candidate/blob/main/docs/quality-assurance.md) van Sprint 18 door, en maak stories waar nodig. 
 
-**🛠️ Opdracht 2**  
+**🛠️ Opdracht 2** 
 
-- Ruim de backlog op
+
+- Ruim de backlog op (neem hierin ook het relevante werk van eerstejaarsstudenten mee)
 - Zet het op prioriteit
 - Maak user stories die nog missen
 - Poker plan de stories bovenin de backlog
