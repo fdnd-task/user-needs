@@ -6,7 +6,7 @@ Hoe ver ben je gekomen? Laatste dingen afmaken, elkaar helpen, documentatie op o
 
 ### Aanpak
 
-Lees de oplevering [ToDo lijst]([todo lijst](https://github.com/fdnd-task/lose-your-head-the-client-case/blob/main/docs/wrapup.md#oplever-todos) nog eens door die in sprint 15 met elkaar geupdate hebben. Vandaag gaan we aan de slag met het voorbereiden op de laatste sprint. 
+Lees de oplevering [ToDo lijst](https://github.com/fdnd-task/lose-your-head-the-client-case/blob/main/docs/wrapup.md#oplever-todos) nog eens door die in sprint 15 met elkaar geupdate hebben. Vandaag gaan we aan de slag met het voorbereiden op de laatste sprint. 
 
 👉 Let op, je bent zelf verantwoordelijk dat je bewijslast in portflow zet en koppelt aan de juiste indicatoren.
 
